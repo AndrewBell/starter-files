@@ -39,6 +39,9 @@ Most requirements are optional, but links are provided below.
 # Contact Me
 
 Andrew Bell
+
 homepage: www.recursivechaos.com
+
 email: andrew@recursivechaos.com
+
 twitter: @recursive_chaos
