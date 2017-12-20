@@ -2,9 +2,13 @@
 
 Project Description
 
+## Goals
+
+Begin with the end in mind
+
 ## Requirements
 
-Most requirements are optional, but links are provided below.
+Some requirements are optional, links are provided below.
 
 [git](https://git-scm.com/downloads)
 
