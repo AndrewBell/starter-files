@@ -60,7 +60,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-#JS
+### Mac ###
+.DS_Store
+
+### JavaScript ###
 node_modules
 dist
 .tmp
