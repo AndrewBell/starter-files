@@ -1,44 +1,20 @@
-# Project Name
+# Starter Files
 
-Project Description
+A collection of common project files, and a utility to copy them.
 
 ## Goals
 
-Begin with the end in mind
+Easily bootstrap new projects with common files.
 
 ## Requirements
 
-Some requirements are optional, links are provided below.
+BASH - Windows users can use [Git for windows](http://gitforwindows.org/)
 
 [git](https://git-scm.com/downloads)
 
-[Java 8 JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+## Bootstrap a project
 
-[Maven](http://maven.apache.org/download.cgi)(Optional, you can use the 'mavenw' or 'mavenw.bat' instead)
-
-[Gradle](https://docs.gradle.org/current/userguide/installation.html)(Optional you can use the [Gradle wrapper](https://docs.gradle.org/3.3/userguide/gradle_wrapper.html) instead)
-
-[Docker](https://docs.docker.com/installation/)(Optional, if you would like to run the example in Docker)
-
-## Executing The Project
-
-### Build
-
-`gradle build`
-
-### Test
-
-`gradle test`
-
-### Run
-
-`gradle bootRun`
-
-### Run Docker
-
-`docker build . --tag projectname`
-
-`docker run projectname`
+`sh ./bootstrap.sh ../source-project/`
 
 # Contact Me
 
