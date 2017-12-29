@@ -38,9 +38,9 @@ Some requirements are optional, links are provided below.
 
 `docker run projectname`
 
-# Contact Me
+## Contact Me
 
-Andrew Bell
+### Andrew Bell ###
 
 homepage: www.recursivechaos.com
 
