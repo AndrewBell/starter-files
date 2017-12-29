@@ -14,7 +14,7 @@ BASH - Windows users can use [Git for windows](http://gitforwindows.org/)
 
 ## Bootstrap a project
 
-`sh ./bootstrap.sh ../source-project/`
+`sh ./bootstrap.sh ../source-project`
 
 # Contact Me
 

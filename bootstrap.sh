@@ -11,6 +11,6 @@ if [ -z $1 ]; then
   exit 1
 fi
 
-cp ./{.gitignore,Dockerfile,LICENSE.txt} $1
+cp ./{.gitignore,Dockerfile,LICENSE.txt,.editorconfig} $1
 
 cp ./README_example.md $1/README.md
