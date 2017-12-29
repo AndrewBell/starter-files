@@ -14,8 +14,6 @@ Some requirements are optional, links are provided below.
 
 [Java 8 JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
-[Maven](http://maven.apache.org/download.cgi)(Optional, you can use the 'mavenw' or 'mavenw.bat' instead)
-
 [Gradle](https://docs.gradle.org/current/userguide/installation.html)(Optional you can use the [Gradle wrapper](https://docs.gradle.org/3.3/userguide/gradle_wrapper.html) instead)
 
 [Docker](https://docs.docker.com/installation/)(Optional, if you would like to run the example in Docker)

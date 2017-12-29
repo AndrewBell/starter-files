@@ -60,6 +60,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+### Gradle ###
+build/
+
 ### Mac ###
 .DS_Store
 
