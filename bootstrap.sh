@@ -33,7 +33,6 @@ copyWithOvewritePrompt() {
   local files=("$@")
 
   for file in "${files[@]}"; do
-      echo "$destination/$file"
       if [ -f "$destination/$file" ]; then
         echo "Would you like to overwrite $file? (y)es/(n)o/e(x)it"
         read will_overwrite
