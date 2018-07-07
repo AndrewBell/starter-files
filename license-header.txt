@@ -1,6 +1,4 @@
-/**
- * Created by Andrew Bell
- * www.recursivechaos.com
- * andrew@recursivechaos.com
- * Licensed under MIT license 2018. See LICENSE.txt for details.
- */
+Created by Andrew Bell
+www.recursivechaos.com
+andrew@recursivechaos.com
+Licensed under MIT license 2018. See LICENSE.txt for details.

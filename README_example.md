@@ -28,7 +28,7 @@ Begin with the end in mind
 
 [git](https://git-scm.com/downloads) - Alternatively, download a zip of this GitHub repo.
 
-## Executing The Project
+## Running This Project
 
 ### Build
 
@@ -48,9 +48,13 @@ Begin with the end in mind
 
 `docker run projectname`
 
+## Contributing
+
+If you would like to make an update to this project, fork and open a pull request. If you have any questions, please feel free to reach out (contact info below)
+
 ## Contact Me
 
-### Andrew Bell ###
+### Andrew "Doc" Bell ###
 
 homepage: www.recursivechaos.com
 

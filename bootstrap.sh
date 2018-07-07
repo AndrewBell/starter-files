@@ -5,6 +5,12 @@
 # If a file conflict is detected, script will prompt for action.
 #
 # Example: `sh ./bootstrap.sh ../source-project`
+#
+# Created by Andrew Bell
+# www.recursivechaos.com
+# andrew@recursivechaos.com
+# Licensed under MIT license 2018. See LICENSE.txt for details.
+#
 
 declare -a FILES_TO_COPY=(
   ".gitignore"
