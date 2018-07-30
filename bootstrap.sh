@@ -25,7 +25,7 @@ err() {
 
 # Copy file to new directory, using their "example" if needed.
 bootstrapCopy() {
-  if [[ "${2}" = "README.md" ]]; then
+  if [[ "${1}" = "README.md" ]]; then
     cp ./README_example.md $2/README.md
   else
     cp ./$1 $2
