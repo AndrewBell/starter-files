@@ -19,10 +19,9 @@ Begin with the end in mind
 [npm](https://www.npmjs.com/package/npm) - (Bundled with Node) Tested on v6.1.0
 
 [Bash](https://www.gnu.org/software/bash/)
-
-    * [Windows via Git for Windows](http://gitforwindows.org/)
-    
-    * OSX & (Most) Linux users should already have Bash
+  * [Windows via Git for Windows](http://gitforwindows.org/)  
+  * OSX - Users should already have Bash via the Terminal app
+  * Linux - Many distrubutions include Bash, if not, you likely know what you're doing anyway
 
 ### Optional 
 
