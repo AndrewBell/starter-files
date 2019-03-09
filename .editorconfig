@@ -12,7 +12,7 @@ insert_final_newline = true
 indent_style = space
 indent_size = 4
 
-[*.{yml,xml,js,jsx}]
+[*.{yml,xml,js,jsx,tf}]
 indent_style = space
 indent_size = 2
 
